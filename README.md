@@ -17,8 +17,8 @@ The system applies specific percentage increases based on the following criteria
 
 | Current Salary | Years of Service | Raise % |
 | --- | --- | --- |
-| \$30,000$ | $\le 2$ years | 3.00% |
-| \$30,000$ | $\ge 3$ years | 2.50% |
+| \$30,000 | $\le 2$ years | 3.00% |
+| \$30,000 | $\ge 3$ years | 2.50% |
 | \$30,000.01 - \$60,000$ | $\le 5$ years | 2.25% |
 | \$30,000.01 - \$60,000$ | $\ge 6$ years | 2.00% |
 | \$60,000.01 - \$80,000$ | $\le 5$ years | 1.75% |
